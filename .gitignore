@@ -1,0 +1,12 @@
+.idea
+composer.lock
+*.log
+upload/*
+runtime/*
+background/runtime/*
+.idea/*
+background/.idea/*
+foreground/.idea/*
+.DS_Store/*
+background/.DS_Store
+foreground/.DS_Store
