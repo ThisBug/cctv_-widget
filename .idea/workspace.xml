@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d109bf3b-e3b4-45f2-a160-a85b1464cb99" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/widget/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/widget/html/back_pwd.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/back_pwd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/daili.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/daili.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/daili_details_fm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/daili_details_fm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/daili_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/daili_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/daili_login_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/daili_login_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/daili_quma_fm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/daili_quma_fm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/frame0.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/frame0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/frame1.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/frame1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/frame3.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/frame3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/frame4.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/frame4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/game_list_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/game_list_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/game_play_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/game_play_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/jiexi_win.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/jiexi_win.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/look_record.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/look_record.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/look_record_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/look_record_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/open_agent_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/open_agent_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/open_vip_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/open_vip_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/play_win.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/play_win.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/reg_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/reg_frm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/widget/html/repass.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/repass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/share_fm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/share_fm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/tv_list_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/tv_list_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/tv_play_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/tv_play_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/v_list_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/v_list_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/v_mn_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/v_mn_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/v_play_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/v_play_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/vplay_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/vplay_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/zhibo_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/zhibo_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/zhubo_list_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/zhubo_list_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/html/有注册验证码reg_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/html/有注册验证码reg_frm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/widget/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,26 +19,53 @@
       <file leaf-file-name="reg_frm.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/widget/html/reg_frm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+            <state relative-caret-position="-675">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="repass.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="有注册验证码reg_frm.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/widget/html/有注册验证码reg_frm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-261">
+              <caret line="280" column="16" selection-start-line="280" selection-start-column="10" selection-end-line="280" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="repass.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/widget/html/repass.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="231" column="5" lean-forward="true" selection-start-line="231" selection-start-column="5" selection-end-line="231" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="241" column="35" lean-forward="true" selection-start-line="241" selection-start-column="35" selection-end-line="241" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="back_pwd.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/widget/html/back_pwd.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="251" column="35" selection-start-line="251" selection-start-column="35" selection-end-line="251" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/widget/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -78,9 +77,13 @@
       <find>最新影视</find>
       <find>2ddqq</find>
       <find>http://lyys.qhdushi.cn</find>
-      <find>id</find>
       <find>1b8218d7900bdcfb00d944fefb329ddf</find>
       <find>134397</find>
+      <find>188</find>
+      <find>永久</find>
+      <find>http://v.juhe.cn/sms/send?mobile</find>
+      <find>content</find>
+      <find>id</find>
     </findStrings>
     <replaceStrings>
       <replace>心悦影视</replace>
@@ -101,8 +104,10 @@
       <list>
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/widget/html/reg_frm.html" />
-        <option value="$PROJECT_DIR$/widget/html/repass.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/widget/config.xml" />
+        <option value="$PROJECT_DIR$/widget/html/repass.html" />
+        <option value="$PROJECT_DIR$/widget/html/back_pwd.html" />
       </list>
     </option>
   </component>
@@ -181,23 +186,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553075265186</updated>
-      <workItem from="1553075266429" duration="1367000" />
+      <workItem from="1553075266429" duration="7020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1367000" />
+    <option name="totallyTimeSpent" value="7020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32935324" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
@@ -227,24 +231,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/widget/html/reg_frm.html">
+    <entry file="file://$PROJECT_DIR$/widget/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/widget/html/repass.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="231" column="5" lean-forward="true" selection-start-line="231" selection-start-column="5" selection-end-line="231" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/html/有注册验证码reg_frm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="280" column="16" selection-start-line="280" selection-start-column="10" selection-end-line="280" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/html/reg_frm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/html/back_pwd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="251" column="35" selection-start-line="251" selection-start-column="35" selection-end-line="251" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/html/repass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="241" column="35" lean-forward="true" selection-start-line="241" selection-start-column="35" selection-end-line="241" selection-end-column="35" />
         </state>
       </provider>
     </entry>

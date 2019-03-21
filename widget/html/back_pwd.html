@@ -244,11 +244,12 @@
      function getApicode(username,content) {
           var btn1 = $api.byId('btn1');
           api.ajax({
-          url: 'http://v.juhe.cn/sms/send?mobile='+username+'&tpl_id=144590&tpl_value='+content+'&key=1a5a8d728b5b5dc671ea0e66ebb733e2',
+              url: 'http://new.shenmedoubiemai.com/login/login/aliVeify?mobile='+username+'&code='+content+'',
+              // url: 'http://v.juhe.cn/sms/send?mobile='+username+'&tpl_id=144590&tpl_value='+content+'&key=1a5a8d728b5b5dc671ea0e66ebb733e2',
               method: 'get'
           },function(ret, err){
                   api.toast({
-                      msg: '发送成功',
+                      msg: ret.msg,
                       duration: 1000,
                       location: 'middle'
                   });
