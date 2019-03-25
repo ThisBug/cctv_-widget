@@ -97,7 +97,7 @@
             shama = ret.share;
              var url = $api.byId('url');
              var share = $api.byId('share');
-             url.innerHTML = '<img src="http://qr.liantu.com/api.php?text='+ret.msg+'"/>';
+             url.innerHTML = '<img src="https://cli.im/api/qrcode/code?text='+ret.msg+'&mhid=4BfHDQu6m80hMHcoKtFcO60"/>';
              share.innerHTML = ret.share;
         } else {
           alert('获取链接失败');
@@ -117,7 +117,7 @@
     var dialogBox = api.require('dialogBox');
     dialogBox.webView({
         tapClose: false,
-        path: 'http://qr.liantu.com/api.php?text='+copy,
+        path: 'https://cli.im/api/qrcode/code?text='+copy+'&mhid=4BfHDQu6m80hMHcoKtFcO60',
         texts: {
             title: '专属二维码',
             leftBtnTitle: '关闭',
